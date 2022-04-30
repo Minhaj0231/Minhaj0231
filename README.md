@@ -52,7 +52,7 @@ A **Software Engineer**
   
   <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Minhaj0231" alt="Minhaj0231" width="500" height="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=Minhaj0231&show_icons=true&theme=radical" alt="Minhaj0231" width="500" height="400">
   
 </p>
 
