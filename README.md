@@ -49,6 +49,12 @@ A **Software Engineer**
 
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  <p align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Minhaj0231" alt="Minhaj0231" width="500" height="400">
+  
+</p>
 
 
 
