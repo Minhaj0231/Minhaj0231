@@ -6,6 +6,7 @@
 
 <h3 title=""> Hi 👋, I'm Minhaj!</h3>
 ![](https://komarev.com/ghpvc/?username=Minhaj0231)
+<br/>
 
 <a href="https://bd.linkedin.com/in/minhaj0231">
   <img align="left" alt="Minhaj's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
